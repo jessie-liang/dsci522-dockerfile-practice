@@ -1,0 +1,9 @@
+name: lab-tues
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pandas=2.2.1
+  - numpy=1.26.4
+prefix: /Users/jessieliang/miniforge3/envs/lab-tues
